@@ -11,5 +11,5 @@ A highly motivated and talented graduate in Computer Science with a Cybersecurit
 # Certifications:
 
 ## CompTIA Security+
-![enter image description here](ccna)
+![enter image description here](CCNA.png)
 ## Cisco Certified Network Associate (CCNA)
